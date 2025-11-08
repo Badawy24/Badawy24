@@ -1,5 +1,5 @@
 # Abdelrahman Badawy 👨‍💻  
-**Full Stack Developer | Backend Developer @ Codlop | Open-Source Enthusiast**
+**Software Engineer | Backend Developer @ Codlop | Open-Source Enthusiast**
 
 [![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=ko-fi)](https://github.com/Badawy24) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Badawy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6) 
