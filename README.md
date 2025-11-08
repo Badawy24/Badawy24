@@ -48,7 +48,7 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 - Focused on **programming, algorithms, data processing, and machine learning**.
 
 **Full Stack Development Bootcamp**  
-*Information Technology Institute (ITI)* | 03/2025 - Present  
+*Information Technology Institute (ITI)* | 03/2025 - 09/2025  
 - Intensive 4-month code camp with **PHP, Laravel, Angular, MySQL**.
 
 ---
