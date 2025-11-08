@@ -23,8 +23,13 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 
 ## 💼 Experience
 
+**Backend Developer**  
+*Codlop* | Present  
+- Working on **RESTful APIs**, Laravel backend development, and project optimization.  
+- Focused on **scalable, secure, and maintainable solutions**.
+  
 **Open-Source Developer**  
-*Information Technology Institute (ITI)* | 03/2025 - Present  
+*Information Technology Institute (ITI)* | 03/2025 - 09/2025  
 - Hands-on experience in **databases, programming, and networking**.  
 - Contributed to open-source projects and improved coding skills.
 
@@ -32,11 +37,6 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 *Google Developer Student Club (GDSC)* | 01/2022 - 09/2023  
 - Delivered training sessions on **web development and C++ programming**.  
 - Guided students in **OOP, Data Structures, and Algorithms**.
-
-**Backend Developer**  
-*Codlop* | Present  
-- Working on **RESTful APIs**, Laravel backend development, and project optimization.  
-- Focused on **scalable, secure, and maintainable solutions**.
 
 ---
 
