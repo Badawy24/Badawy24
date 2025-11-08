@@ -9,12 +9,12 @@
 ---
 
 ## 👋 About Me
-Software Developer with expertise in **backend development using PHP & Laravel**, **frontend with Angular**, and **full-stack project management**. I build scalable, secure, and efficient software solutions. Passionate about AI integration, problem-solving, and continuous learning. Currently working as **Backend Developer at Codlop**.
+Software Engineer with expertise in **backend development using PHP & Laravel**, **frontend with Angular**, and **full-stack project management**. I build scalable, secure, and efficient software solutions. Passionate about AI integration, problem-solving, and continuous learning. Currently working as **Backend Developer at Codlop**.
 
 ---
 
 ## 🏆 Highlights
-- 3+ years of experience in software development and web applications.  
+- 2+ years of experience in software development and web applications.  
 - Built multiple full-stack projects with **AI integration** and e-commerce functionality.  
 - Open-source contributor and active participant in coding communities.  
 - Strong skills in **problem-solving, teamwork, and project optimization**.  
