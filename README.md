@@ -125,8 +125,8 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 ---
 
 ## 🌍 Languages
-- English (Professional)  
-- Arabic (Native)  
+- English
+- Arabic
 
 ---
 
