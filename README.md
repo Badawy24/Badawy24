@@ -110,7 +110,6 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 ![Abdelrahman Badawy GitHub stats](https://github-readme-stats.vercel.app/api?username=Badawy24&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badawy24&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Badawy24&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Badawy24&theme=react-dark&hide_border=true)  
 
 ---
 
