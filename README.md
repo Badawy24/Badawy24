@@ -1,7 +1,7 @@
 # Abdelrahman Badawy 👨‍💻  
 **Software Engineer | Backend Developer @ Codlop | Open-Source Enthusiast**
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=ko-fi)](https://github.com/Badawy24) 
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=ko-fi)](https://badawy24.github.io/Badawy-Portfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Badawy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6) 
 [![GitHub](https://img.shields.io/badge/GitHub-Badawy24-black?style=for-the-badge&logo=github)](https://github.com/Badawy24) 
 [![UpWork](https://img.shields.io/badge/UpWork-Profile-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01a62c6eb821a02304)  
