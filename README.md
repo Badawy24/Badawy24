@@ -14,7 +14,7 @@ Software Engineer with expertise in **backend development using PHP & Laravel**,
 ---
 
 ## 🏆 Highlights
-- 2+ years of experience in software development and web applications.  
+- 1+ years of experience in software development and web applications.  
 - Built multiple full-stack projects with **AI integration** and e-commerce functionality.  
 - Open-source contributor and active participant in coding communities.  
 - Strong skills in **problem-solving, teamwork, and project optimization**.  
