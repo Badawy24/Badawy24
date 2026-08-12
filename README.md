@@ -1,141 +1,146 @@
-# Abdelrahman Badawy 👨‍💻  
-**Software Engineer | Backend Developer @ Codlop | Open-Source Enthusiast**
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=ko-fi)](https://badawy24.github.io/Badawy-Portfolio/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Badawy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6) 
-[![GitHub](https://img.shields.io/badge/GitHub-Badawy24-black?style=for-the-badge&logo=github)](https://github.com/Badawy24) 
-[![UpWork](https://img.shields.io/badge/UpWork-Profile-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01a62c6eb821a02304)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=260&section=header&text=ABDELRAHMAN%20BADAWY&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BACKEND%20SOFTWARE%20ENGINEER%20%40%20CODLOP&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=I+don%27t+just+write+code.+I+engineer+systems.;PHP+%7C+Laravel+%7C+Multi-Tenant+SaaS+%7C+REST+APIs;Queues+%C2%B7+Webhooks+%C2%B7+Clean+Architecture+%C2%B7+Open+Source" />
 
-## 👋 About Me
-Software Engineer with expertise in **backend development using PHP & Laravel**, **frontend with Angular**, and **full-stack project management**. I build scalable, secure, and efficient software solutions. Passionate about AI integration, problem-solving, and continuous learning. Currently working as **Backend Developer at Codlop**.
+<br/>
 
----
+<a href="https://github.com/Badawy24"><img src="https://img.shields.io/badge/GITHUB-Badawy24-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://packagist.org/packages/badawy24/pushify"><img src="https://img.shields.io/badge/PACKAGIST-Pushify-F28D1A?style=for-the-badge&logo=packagist&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01a62c6eb821a02304"><img src="https://img.shields.io/badge/UPWORK-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://leetcode.com/u/uJkR7KCeDJ/"><img src="https://img.shields.io/badge/LEETCODE-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-## 🏆 Highlights
-- 1+ years of experience in software development and web applications.  
-- Built multiple full-stack projects with **AI integration** and e-commerce functionality.  
-- Open-source contributor and active participant in coding communities.  
-- Strong skills in **problem-solving, teamwork, and project optimization**.  
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Badawy24&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Badawy24?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS"/>
 
-## 💼 Experience
+</div>
 
-**Backend Developer**  
-*Codlop* | Present  
-- Working on **RESTful APIs**, Laravel backend development, and project optimization.  
-- Focused on **scalable, secure, and maintainable solutions**.
-  
-**Open-Source Developer**  
-*Information Technology Institute (ITI)* | 03/2025 - 09/2025  
-- Hands-on experience in **databases, programming, and networking**.  
-- Contributed to open-source projects and improved coding skills.
+<br/>
 
-**Technical Programmer**  
-*Google Developer Student Club (GDSC)* | 01/2022 - 09/2023  
-- Delivered training sessions on **web development and C++ programming**.  
-- Guided students in **OOP, Data Structures, and Algorithms**.
+## `~/whoami`
 
----
+```text
+Abdelrahman Badawy
+├── Backend Software Engineer @ Codlop
+├── PHP · Laravel · REST APIs · OAuth 2.0 · Webhooks
+├── Multi-Tenant SaaS — database-per-tenant architecture
+├── Queues · Jobs · Async Processing
+├── MySQL · MongoDB · Redis · Firebase
+└── Open Source maintainer — Pushify (w/ @hassanmostfa)
 
-## 🎓 Education
+"I don't just build endpoints. I build the systems behind them."
+```
 
-**Bachelor’s in Computer Science & AI**  
-*Benha University* | 09/2019 - 05/2023  
-- Graduation Project Grade: **A+**  
-- Focused on **programming, algorithms, data processing, and machine learning**.
+<div align="center">
 
-**Full Stack Development Bootcamp**  
-*Information Technology Institute (ITI)* | 03/2025 - 09/2025  
-- Intensive 4-month code camp with **PHP, Laravel, Angular, MySQL**.
+**`14+`** Laravel platforms shipped &nbsp;·&nbsp; **`Multi-Tenant`** SaaS architecture &nbsp;·&nbsp; **`OAuth 2.0`** production integrations &nbsp;·&nbsp; **`~50%`** less app-customization effort &nbsp;·&nbsp; **`Open Source`** maintainer
+
+</div>
 
 ---
 
-## 💻 Skills
+## 🛠️ Stack
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap) 
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss)
+<div align="center">
 
-### Back-End
-![PHP](https://img.shields.io/badge/PHP-8892be?style=flat-square&logo=php) 
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel) 
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=node.js)
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb,redis,firebase,linux,docker,git,github,postman"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap"/>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) 
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=flat-square&logo=firebase)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github) 
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code) 
-![Terminal](https://img.shields.io/badge/Terminal-4caf50?style=flat-square&logo=gnu-bash) 
-![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify) 
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal)
-
-### Other
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B) 
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python) 
-![Java](https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=java) 
-![AI](https://img.shields.io/badge/AI-ff6f61?style=flat-square&logo=artificial-intelligence) 
-![Networking](https://img.shields.io/badge/Networking-2b6777?style=flat-square&logo=network) 
-![Cloud](https://img.shields.io/badge/Cloud-00aaff?style=flat-square&logo=cloud)
+</div>
 
 ---
 
-## 🚀 Projects
+## 🏗️ Featured Work
 
-| Project | Description | Tech | Demo | GitHub |
-|---------|-------------|------|------|--------|
-| **Paper Shelf - Online Bookstore** | Full-featured online bookstore with multi-role access, AI summaries, and integrated payment gateway | Angular, TypeScript, Bootstrap, Node.js, MongoDB, AI | [Live](https://paper-shelf-front-endd-pent.vercel.app/) | [Repo](https://github.com/KareemA-Saad/PaperShelf-backEnd) |
-| **Pack&Go E-commerce** | Travel bags e-commerce platform with Firebase auth, PayPal checkout, and admin dashboard | HTML, CSS, JS, Firebase, PayPal | [Live](https://packgotrial.netlify.app/) | [Repo](https://github.com/Badawy24/Pack-Go) |
-| **Early Detection of ASD** | Bilingual website for early autism detection using ML | HTML, CSS, JS, PHP, Laravel, Python, MySQL | - | [Repo](https://github.com/Badawy24/Autism_Graduation_Project) |
-| **Hair Pilot Salon With AI** | Angular-based app for personalized haircut suggestions via AI face detection | Angular, Firebase, face-api, HTML, CSS, Bootstrap | [Live](https://hair-pilot.vercel.app/home) | [Repo](https://github.com/Badawy24/HairPilot) |
-| **Coffee Corner Landing Page** | Responsive landing page for coffee shop with smooth scrolling | HTML, CSS, JS | [Live](https://badawy24.github.io/Coffee_Corner/) | [Repo](https://github.com/Badawy24/Coffee_Corner) |
-
----
-
-## 📊 GitHub Stats & Visuals
-
-![Abdelrahman Badawy GitHub stats](https://github-readme-stats.vercel.app/api?username=Badawy24&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badawy24&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Badawy24&theme=radical)  
+<table>
+<tr><td width="46%"><b>🏢 Multi-Tenant SaaS</b><br/><sub>AqaratCodlop · CodlopCMS</sub></td><td>Database-per-tenant isolation, automated provisioning, async processing.</td></tr>
+<tr><td><b>🧩 Dynamic App Builder</b><br/><sub>CodlopCMS</sub></td><td>JSON-driven components — turned "build another app" into "configure the system."</td></tr>
+<tr><td><b>🛒 Azhala Marketplace</b><br/><sub>Multi-domain</sub></td><td>One backend, four business domains: bookings, ordering, hospitality, services.</td></tr>
+<tr><td><b>🔌 Zid / Salla Integrations</b><br/><sub>Third-party platforms</sub></td><td>OAuth 2.0, webhooks, retries — because production systems don't live alone.</td></tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+## 📦 Open Source
 
-- **Phone:** +20 101 223 7280  
-- **Email:** [abdelrahman.ahmed2410@gmail.com](mailto:abdelrahman.ahmed2410@gmail.com)  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6)  
-- **GitHub:** [Profile](https://github.com/Badawy24)  
-- **UpWork:** [Profile](https://www.upwork.com/freelancers/~01a62c6eb821a02304)  
-- **LeetCode:** [Profile](https://leetcode.com/u/uJkR7KCeDJ/)
+<div align="center">
 
----
+### Pushify
 
-## 🌍 Languages
-- English
-- Arabic
+Multi-provider Laravel push notifications — **Firebase Cloud Messaging** + **OneSignal**, with scheduling and OneSignal device-subscription management built in.
+Built together with **[@hassanmostfa](https://github.com/hassanmostfa)**.
 
----
+<a href="https://packagist.org/packages/badawy24/pushify"><img src="https://img.shields.io/packagist/v/badawy24/pushify?style=for-the-badge&logo=packagist&logoColor=white"/></a>
+<a href="https://packagist.org/packages/badawy24/pushify"><img src="https://img.shields.io/packagist/dt/badawy24/pushify?style=for-the-badge&logo=packagist&logoColor=white"/></a>
+<a href="https://github.com/backend-2022/pushify"><img src="https://img.shields.io/github/stars/backend-2022/pushify?style=for-the-badge&logo=github"/></a>
 
-## ⚡ Availability
-- Experience Level: Junior  
-- Full Time: ✅ Available  
-- Freelance: ✅ Available  
-- Military Service: ✅ Completed  
+**[View on Packagist →](https://packagist.org/packages/badawy24/pushify)** &nbsp;|&nbsp; **[View Source →](https://github.com/backend-2022/pushify)**
+
+</div>
 
 ---
 
-> Passionate about technology, continuous learning, and building impactful software. Open to full-time and freelance opportunities worldwide.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Badawy24&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Badawy24&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Badawy24&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Badawy24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Badawy24/Badawy24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badawy24/Badawy24/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Badawy24/Badawy24/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔭 Currently
+
+```text
+Laravel Developer  →  Backend Engineer  →  Software Engineer
+```
+
+- 🧮 Architecting a standalone **HR SaaS module** (payroll, attendance, leave) for the Egyptian market — solo design, in progress
+- 🚧 Building **Medify** — a Laravel media-management package (chunked uploads, temp files)
+- 📚 Going deeper into System Design · Database Internals · Distributed Systems · C++
+
+---
+
+## 💬 Let's Build Something
+
+<div align="center">
+
+<a href="mailto:abdelrahman.ahmed2410@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-badawy-70375b1b6"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01a62c6eb821a02304"><img src="https://img.shields.io/badge/UPWORK-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://leetcode.com/u/uJkR7KCeDJ/"><img src="https://img.shields.io/badge/LEETCODE-Find%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer" width="100%"/>
+
+</div>
