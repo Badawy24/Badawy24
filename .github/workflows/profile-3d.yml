@@ -37,10 +37,19 @@ jobs:
 
           git commit -m "chore: update 3d contribution calendar"
 
-          # rebase onto whatever landed on main since checkout, then push.
-          # avoids "fetch first" failures if two runs overlap (e.g. manual + scheduled).
+          # Retry logic with exponential backoff
+          # Rebase onto whatever landed on main since checkout, then push.
+          # Avoids "fetch first" failures if two runs overlap (e.g. manual + scheduled).
           for i in 1 2 3; do
-            git pull --rebase origin main && git push && break
-            echo "Push attempt $i failed, retrying..."
-            sleep 5
+            if git pull --rebase origin main && git push; then
+              echo "Push succeeded on attempt $i"
+              exit 0
+            fi
+            if [ $i -lt 3 ]; then
+              echo "Push attempt $i failed, retrying in $((i * 10)) seconds..."
+              sleep $((i * 10))
+            else
+              echo "All push attempts failed after 3 retries"
+              exit 1
+            fi
           done
