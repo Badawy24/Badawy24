@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-3d-update
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,7 +22,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -31,6 +34,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git fetch origin main
+          git reset --hard origin/main
           git add -A .
 
           if git diff --cached --quiet; then
@@ -39,39 +44,4 @@ jobs:
           fi
 
           git commit -m "chore: update 3d contribution calendar"
-
-          # Retry logic: reset to origin/main and apply our changes
-          for i in 1 2 3; do
-            echo "Push attempt $i..."
-            
-            # Fetch latest changes from origin
-            if ! git fetch origin main; then
-              echo "Fetch failed, retrying..."
-              sleep $((i * 10))
-              continue
-            fi
-            
-            # Reset to origin/main and reapply our commits
-            if ! git reset --soft origin/main; then
-              echo "Reset failed, retrying..."
-              sleep $((i * 10))
-              continue
-            fi
-            
-            # Commit our changes again (if anything staged)
-            if ! git diff --cached --quiet; then
-              git commit -m "chore: update 3d contribution calendar"
-            fi
-            
-            # Try to push
-            if git push origin main; then
-              echo "Push succeeded on attempt $i"
-              exit 0
-            else
-              echo "Push attempt $i failed, retrying in $((i * 10)) seconds..."
-              sleep $((i * 10))
-            fi
-          done
-          
-          echo "All push attempts failed after 3 retries"
-          exit 1
+          git push origin main
