@@ -43,6 +43,19 @@ Abdelrahman Badawy
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/Badawy24?achievement=pull-shark&tab=achievements"><img height="100" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" title="Pull Shark ×4"/></a>
+<a href="https://github.com/Badawy24?achievement=pair-extraordinaire&tab=achievements"><img height="100" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" title="Pair Extraordinaire"/></a>
+<a href="https://github.com/Badawy24?achievement=quickdraw&tab=achievements"><img height="100" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" title="Quickdraw"/></a>
+<a href="https://github.com/Badawy24?achievement=yolo&tab=achievements"><img height="100" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" title="YOLO"/></a>
+
+</div>
+
+---
+
 ## 🛠️ Stack
 
 <div align="center">
@@ -113,6 +126,16 @@ Built together with **[@hassanmostfa](https://github.com/hassanmostfa)**.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Badawy24/Badawy24/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Badawy24/Badawy24/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Badawy24/Badawy24/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 
 </div>
 
