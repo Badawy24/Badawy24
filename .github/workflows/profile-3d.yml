@@ -15,7 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -38,10 +40,10 @@ jobs:
           git commit -m "chore: update 3d contribution calendar"
 
           # Retry logic with exponential backoff
-          # Rebase onto whatever landed on main since checkout, then push.
-          # Avoids "fetch first" failures if two runs overlap (e.g. manual + scheduled).
+          # Fetch latest changes and rebase before pushing
           for i in 1 2 3; do
-            if git pull --rebase origin main && git push; then
+            echo "Push attempt $i..."
+            if git fetch origin main && git rebase origin/main && git push origin main; then
               echo "Push succeeded on attempt $i"
               exit 0
             fi
